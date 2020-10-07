@@ -1,0 +1,5 @@
+C:\Users\Csperlazza\Anaconda3\python.exe C:/Users/Csperlazza/PycharmProjects/261-Assignment1/system_test.py
+This an acceptable version of Python, version 3.7.
+Numpy is installed, you are good to go here!
+
+Process finished with exit code 0

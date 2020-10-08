@@ -29,3 +29,31 @@ print(list(evens))
 # Now with Lambda!
 evens = filter(lambda num: num % 2 == 0, my_list)
 print(list(evens))
+
+
+# tech with tim
+# https://www.youtube.com/watch?v=BcbVe1r2CYc&list=PLzMcBGfZo4-nhWva-6OVh1yKWHBs4o_tv&index=5
+
+def reg_func(x):
+    return x+5
+
+# name_of_func = lambda parameter, paramter2: function expression(what it returns)
+
+
+# useful inside other functions like JS
+
+def func1(x):
+    return lambda x: x * 2
+
+
+print(func1(5))
+
+# can use option paramters
+
+
+def main_func(x):
+    def result(x, y=4): return x + y
+    print(result)
+
+
+print(main_func(5))

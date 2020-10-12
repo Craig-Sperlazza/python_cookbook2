@@ -73,3 +73,12 @@ print(os.path.isfile('/tmp/adfads')) #returns True if adfads is a file
 
 #easy way to split off the extension
 print(os.path.splitext('/tmp/test_file.txt')) # returns: ('/tmp/test_file', '.txt')
+
+#################################################################################################
+# Execute programs
+os.system("dir")
+os.system("ls")
+
+dirList = os.listdir()
+for filename in dirList:
+    print filename

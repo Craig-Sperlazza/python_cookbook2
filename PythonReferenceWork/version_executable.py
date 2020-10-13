@@ -14,9 +14,11 @@
 
 #how to see what version of python you are actaully executing, may have to rearrange path if you are 
 import sys
+import django
 print(sys.executable)
 
-#python and pip-----install a package but then cant use it----likely that your path is messed up and pip is installing it and python is looking in different places
+#python and pip-----install a package but then cant use it----likely that your path is messed up and pip is 
+# installing it and python is looking in different places
 #you can fix this correctly by fixing the .bashrc file
 #but it appears to fix correctly in vscode if you switch the version (bottom left)
-import django
+

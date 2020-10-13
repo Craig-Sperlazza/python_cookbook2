@@ -15,6 +15,7 @@
 #how to see what version of python you are actaully executing, may have to rearrange path if you are 
 import sys
 import django
+print(sys.version)
 print(sys.executable)
 
 #python and pip-----install a package but then cant use it----likely that your path is messed up and pip is 

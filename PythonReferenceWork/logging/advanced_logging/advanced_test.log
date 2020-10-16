@@ -3,3 +3,44 @@
 2020-10-15 18:43:04,674 - __main__ - DEBUG - Sub: 20 - 10 = 10
 2020-10-15 18:43:04,674 - __main__ - DEBUG - Mul: 20 * 10 = 200
 2020-10-15 18:43:04,674 - __main__ - DEBUG - Div: 20 / 10 = 2.0
+2020-10-15 18:47:13,033 - __main__ - DEBUG - This is a log message
+2020-10-15 18:47:13,033 - __main__ - DEBUG - Add: 20 + 10 = 30
+2020-10-15 18:47:13,033 - __main__ - DEBUG - Sub: 20 - 10 = 10
+2020-10-15 18:47:13,033 - __main__ - DEBUG - Mul: 20 * 10 = 200
+2020-10-15 18:47:13,033 - __main__ - DEBUG - Div: 20 / 10 = 2.0
+2020-10-15 18:47:27,385 - __main__ - DEBUG - This is a log message
+2020-10-15 18:47:27,385 - __main__ - DEBUG - Add: 20 + 0 = 20
+2020-10-15 18:47:27,385 - __main__ - DEBUG - Sub: 20 - 0 = 20
+2020-10-15 18:47:27,385 - __main__ - DEBUG - Mul: 20 * 0 = 0
+2020-10-15 18:47:27,385 - __main__ - ERROR - Tried to divide by zero
+2020-10-15 18:47:27,385 - __main__ - DEBUG - Div: 20 / 0 = None
+2020-10-15 18:48:30,752 - __main__ - DEBUG - This is a log message
+2020-10-15 18:48:30,752 - __main__ - DEBUG - Add: 20 + 0 = 20
+2020-10-15 18:48:30,752 - __main__ - DEBUG - Sub: 20 - 0 = 20
+2020-10-15 18:48:30,752 - __main__ - DEBUG - Mul: 20 * 0 = 0
+2020-10-15 18:48:30,752 - __main__ - ERROR - Tried to divide by zero
+Traceback (most recent call last):
+  File "/home/craig/Desktop/python_cookbook2/PythonReferenceWork/logging/advanced_logging/advanced_log_template.py", line 59, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2020-10-15 18:48:30,752 - __main__ - DEBUG - Div: 20 / 0 = None
+2020-10-15 18:51:12,365 - __main__ - DEBUG - This is a log message
+2020-10-15 18:51:12,365 - __main__ - DEBUG - Add: 20 + 0 = 20
+2020-10-15 18:51:12,365 - __main__ - DEBUG - Sub: 20 - 0 = 20
+2020-10-15 18:51:12,365 - __main__ - DEBUG - Mul: 20 * 0 = 0
+2020-10-15 18:51:12,365 - __main__ - ERROR - Tried to divide by zero
+Traceback (most recent call last):
+  File "/home/craig/Desktop/python_cookbook2/PythonReferenceWork/logging/advanced_logging/advanced_log_template.py", line 63, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2020-10-15 18:51:12,366 - __main__ - DEBUG - Div: 20 / 0 = None
+2020-10-15 18:52:04,895 - __main__ - DEBUG - This is a log message
+2020-10-15 18:52:04,895 - __main__ - DEBUG - Add: 20 + 0 = 20
+2020-10-15 18:52:04,895 - __main__ - DEBUG - Sub: 20 - 0 = 20
+2020-10-15 18:52:04,895 - __main__ - DEBUG - Mul: 20 * 0 = 0
+2020-10-15 18:52:04,895 - __main__ - ERROR - Tried to divide by zero
+Traceback (most recent call last):
+  File "/home/craig/Desktop/python_cookbook2/PythonReferenceWork/logging/advanced_logging/advanced_log_template.py", line 64, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+2020-10-15 18:52:04,896 - __main__ - DEBUG - Div: 20 / 0 = None

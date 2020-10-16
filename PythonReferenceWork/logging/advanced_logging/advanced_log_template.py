@@ -28,7 +28,12 @@ formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(messag
 file_handler = logging.FileHandler('/home/craig/Desktop/python_cookbook2/PythonReferenceWork/logging/advanced_logging/advanced_test.log')
 file_handler.setFormatter(formatter)
 
+#you can also include a stream handler (print to console and the other saves to a file)
+stream_handler = logging.StreamHandler()
+stream_handler.setFormatter(formatter)
+
 logger.addHandler(file_handler)
+logger.addHandler(stream_handler)
 
 logger.debug('This is a log message')
 
@@ -55,11 +60,16 @@ def multiply(x, y):
 
 def divide(x, y):
     """Divide Function"""
-    return x / y
+    try:
+        result = x / y
+    except ZeroDivisionError:
+        logger.exception('Tried to divide by zero')
+    else:
+        return result   
 
 
 num_1 = 20
-num_2 = 10
+num_2 = 0
 
 add_result = add(num_1, num_2)
 # logging.debug('Add: {} + {} = {}'.format(num_1, num_2, add_result))

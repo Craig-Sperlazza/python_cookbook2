@@ -1,0 +1,61 @@
+2020-10-15 20:21:08,700 - __main__ - DEBUG - This is a log message
+2020-10-15 20:21:08,700 - __main__ - INFO - Created employee: John Smith - John.Smith@email.com - 100000
+2020-10-15 20:21:08,701 - __main__ - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com - 150000
+2020-10-15 20:21:08,701 - __main__ - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com - 200000
+2020-10-15 20:30:51,352 - employee - DEBUG - This is a log message
+2020-10-15 20:38:05,876 - employee - DEBUG - This is a log message
+2020-10-15 20:38:05,880 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:38:05,880 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:38:05,881 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:38:05,881 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:38:05,881 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:38:05,881 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:38:56,531 - __main__ - DEBUG - This is a log message
+2020-10-15 20:38:56,531 - __main__ - INFO - Created employee: John Smith - John.Smith@email.com - 100000
+2020-10-15 20:38:56,531 - __main__ - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com - 150000
+2020-10-15 20:38:56,532 - __main__ - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com - 200000
+2020-10-15 20:54:50,021 - employee - DEBUG - This is a log message
+2020-10-15 20:54:50,023 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:54:50,024 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:54:50,024 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:54:50,024 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:54:50,024 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:54:50,024 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:54:50,024 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:54:50,024 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:24,451 - employee - DEBUG - This is a log message
+2020-10-15 20:57:24,454 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:24,454 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:24,454 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:24,455 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:24,455 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:24,455 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:24,455 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:24,455 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:32,856 - employee - DEBUG - This is a log message
+2020-10-15 20:57:32,860 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:32,860 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:32,860 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:32,860 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:32,860 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:32,860 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:32,861 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:32,861 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:41,136 - employee - DEBUG - This is a log message
+2020-10-15 20:57:41,141 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:41,141 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:41,141 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:41,141 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:41,141 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:41,141 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:57:41,142 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:57:41,142 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:58:16,095 - employee - DEBUG - This is a log message
+2020-10-15 20:58:16,097 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:58:16,097 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:58:16,098 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:58:16,098 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:58:16,098 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:58:16,098 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000
+2020-10-15 20:58:16,098 - employee - INFO - Created employee: Corey Schafer - Corey.Schafer@email.com - 50000
+2020-10-15 20:58:16,098 - employee - INFO - Created employee: Sue Smith - Sue.Smith@email.com - 60000

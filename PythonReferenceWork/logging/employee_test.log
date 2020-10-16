@@ -10,3 +10,7 @@
 2020-10-15 14:31:21,362 - root - INFO - Created employee: John Smith - John.Smith@email.com
 2020-10-15 14:31:21,362 - root - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
 2020-10-15 14:31:21,362 - root - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com
+2020-10-15 20:16:34,253 - root - DEBUG - This is a log message
+2020-10-15 20:16:34,253 - root - INFO - Created employee: John Smith - John.Smith@email.com - 100000
+2020-10-15 20:16:34,254 - root - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com - 150000
+2020-10-15 20:16:34,254 - root - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com - 200000

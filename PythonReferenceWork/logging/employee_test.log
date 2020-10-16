@@ -1,0 +1,12 @@
+2020-10-15 14:26:44,104 - root - DEBUG - This is a log message
+2020-10-15 14:26:44,104 - root - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 14:27:27,682 - root - DEBUG - This is a log message
+2020-10-15 14:27:27,682 - root - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 14:27:27,682 - root - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
+2020-10-15 14:27:52,880 - root - DEBUG - This is a log message
+2020-10-15 14:27:52,880 - root - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 14:27:52,880 - root - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
+2020-10-15 14:31:21,362 - root - DEBUG - This is a log message
+2020-10-15 14:31:21,362 - root - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 14:31:21,362 - root - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
+2020-10-15 14:31:21,362 - root - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com

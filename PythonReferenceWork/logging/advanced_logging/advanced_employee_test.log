@@ -1,0 +1,15 @@
+2020-10-15 18:35:49,043 - advanced_employee - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 18:35:49,043 - advanced_employee - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
+2020-10-15 18:35:49,043 - advanced_employee - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com
+2020-10-15 18:35:52,673 - __main__ - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 18:35:52,674 - __main__ - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
+2020-10-15 18:35:52,674 - __main__ - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com
+2020-10-15 18:38:55,855 - __main__ - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 18:38:55,856 - __main__ - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
+2020-10-15 18:38:55,856 - __main__ - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com
+2020-10-15 18:39:12,057 - advanced_employee - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 18:39:12,057 - advanced_employee - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
+2020-10-15 18:39:12,057 - advanced_employee - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com
+2020-10-15 18:43:04,674 - advanced_employee - INFO - Created employee: John Smith - John.Smith@email.com
+2020-10-15 18:43:04,674 - advanced_employee - INFO - Created employee: Katie Johnson - Katie.Johnson@email.com
+2020-10-15 18:43:04,674 - advanced_employee - INFO - Created employee: Rhonda Jones - Rhonda.Jones@email.com

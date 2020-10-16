@@ -1,0 +1,24 @@
+2020-10-15 14:14:01,699 - root - DEBUG -This is a log message
+2020-10-15 14:14:01,699 - root - DEBUG -Add: 20 + 10 = 30
+2020-10-15 14:14:01,699 - root - DEBUG -Sub: 20 - 10 = 10
+2020-10-15 14:14:01,699 - root - DEBUG -Mul: 20 * 10 = 200
+2020-10-15 14:14:01,699 - root - DEBUG -Div: 20 / 10 = 2.0
+2020-10-15 14:15:57,472 - root - DEBUG -This is a log message
+2020-10-15 14:15:57,472 - root - DEBUG -Add: 0 + 10 = 10
+2020-10-15 14:15:57,472 - root - DEBUG -Sub: 0 - 10 = -10
+2020-10-15 14:15:57,472 - root - DEBUG -Mul: 0 * 10 = 0
+2020-10-15 14:15:57,473 - root - DEBUG -Div: 0 / 10 = 0.0
+2020-10-15 14:16:19,469 - root - DEBUG -This is a log message
+2020-10-15 14:16:19,470 - root - DEBUG -Add: 20 + 0 = 20
+2020-10-15 14:16:19,470 - root - DEBUG -Sub: 20 - 0 = 20
+2020-10-15 14:16:19,470 - root - DEBUG -Mul: 20 * 0 = 0
+2020-10-15 14:17:06,004 - root - DEBUG -This is a log message
+2020-10-15 14:17:06,005 - root - DEBUG -Add: 20 + 10 = 30
+2020-10-15 14:17:06,005 - root - DEBUG -Sub: 20 - 10 = 10
+2020-10-15 14:17:06,005 - root - DEBUG -Mul: 20 * 10 = 200
+2020-10-15 14:17:06,005 - root - DEBUG -Div: 20 / 10 = 2.0
+2020-10-15 14:18:33,872 - root - DEBUG - This is a log message
+2020-10-15 14:18:33,873 - root - DEBUG - Add: 20 + 10 = 30
+2020-10-15 14:18:33,873 - root - DEBUG - Sub: 20 - 10 = 10
+2020-10-15 14:18:33,873 - root - DEBUG - Mul: 20 * 10 = 200
+2020-10-15 14:18:33,873 - root - DEBUG - Div: 20 / 10 = 2.0

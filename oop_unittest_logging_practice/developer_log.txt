@@ -1,0 +1,52 @@
+2020-10-19 16:52:52,440 - __main__ - DEBUG - This is a log message
+2020-10-19 16:53:09,077 - __main__ - DEBUG - This is a log message
+2020-10-19 16:53:09,077 - __main__ - INFO - Created Developer Katie, Johnson, 150000, Katie Johnson, Katie Johnson@company.com, python 
+The total number of employees is now 3
+2020-10-19 16:53:09,077 - __main__ - INFO -  The Employee's name is John Smith and their pay is 100000 and their email is John Smith@company.com
+2020-10-19 16:53:09,077 - __main__ - INFO - {'The number of employees is 4'}
+2020-10-19 18:30:51,095 - __main__ - DEBUG - This is a log message
+2020-10-19 18:30:51,096 - __main__ - INFO - Created Developer Katie, Johnson, 150000, Katie Johnson, Katie Johnson@company.com, python 
+The total number of employees is now 3
+2020-10-19 18:30:51,096 - __main__ - INFO -  The Employee's name is John Smith and their pay is 100000 and their email is John Smith@company.com
+2020-10-19 18:30:51,096 - __main__ - INFO - {'The number of employees is 4'}
+2020-10-19 18:31:06,864 - developer_class - DEBUG - This is a log message
+2020-10-19 18:31:33,244 - developer_class - DEBUG - This is a log message
+2020-10-19 18:31:33,245 - developer_class - INFO - Created Developer Corey, Shaffer, 10000, Corey Shaffer, Corey Shaffer@company.com, Python 
+The total number of employees is now 2
+2020-10-19 18:31:33,245 - developer_class - INFO - Created Developer Tara, Black, 20000, Tara Black, Tara Black@company.com, Java 
+The total number of employees is now 4
+2020-10-19 18:31:50,858 - developer_class - DEBUG - This is a log message
+2020-10-19 18:31:50,858 - developer_class - INFO - Created Developer Corey, Shaffer, 10000, Corey Shaffer, Corey Shaffer@company.com, Python 
+The total number of employees is now 2
+2020-10-19 18:31:50,858 - developer_class - INFO - Created Developer Tara, Black, 20000, Tara Black, Tara Black@company.com, Java 
+The total number of employees is now 4
+2020-10-19 18:32:01,914 - developer_class - DEBUG - This is a log message
+2020-10-19 18:32:01,914 - developer_class - INFO - Created Developer Corey, Shaffer, 10000, Corey Shaffer, Corey Shaffer@company.com, Python 
+The total number of employees is now 2
+2020-10-19 18:32:01,914 - developer_class - INFO - Created Developer Tara, Black, 20000, Tara Black, Tara Black@company.com, Java 
+The total number of employees is now 4
+2020-10-19 18:32:19,273 - developer_class - DEBUG - This is a log message
+2020-10-19 18:32:19,273 - developer_class - INFO - Created Developer Corey, Shaffer, 10000, Corey Shaffer, Corey Shaffer@company.com, Python 
+The total number of employees is now 2
+2020-10-19 18:32:19,273 - developer_class - INFO - Created Developer Tara, Black, 20000, Tara Black, Tara Black@company.com, Java 
+The total number of employees is now 4
+2020-10-19 18:35:12,993 - developer_class - DEBUG - This is a log message
+2020-10-19 18:35:12,993 - developer_class - INFO - Created Developer Corey, Shaffer, 10000, Corey Shaffer, Corey Shaffer@company.com, Python 
+The total number of employees is now 2
+2020-10-19 18:35:12,993 - developer_class - INFO - Created Developer Tara, Black, 20000, Tara Black, Tara Black@company.com, Java 
+The total number of employees is now 4
+2020-10-19 18:35:50,507 - developer_class - DEBUG - This is a log message
+2020-10-19 18:35:50,507 - developer_class - INFO - Created Developer Corey, Shaffer, 10000, Corey Shaffer, Corey Shaffer@company.com, Python 
+The total number of employees is now 2
+2020-10-19 18:35:50,507 - developer_class - INFO - Created Developer Tara, Black, 20000, Tara Black, Tara Black@company.com, Java 
+The total number of employees is now 4
+2020-10-19 18:41:39,855 - developer_class - DEBUG - This is a log message
+2020-10-19 18:41:39,855 - developer_class - INFO - Created Developer Corey, Shaffer, 10000, Corey Shaffer, Corey Shaffer@company.com, Python 
+The total number of employees is now 2
+2020-10-19 18:41:39,855 - developer_class - INFO - Created Developer Tara, Black, 20000, Tara Black, Tara Black@company.com, Java 
+The total number of employees is now 4
+2020-10-19 18:41:46,737 - developer_class - DEBUG - This is a log message
+2020-10-19 18:41:46,737 - developer_class - INFO - Created Developer Corey, Shaffer, 10000, Corey Shaffer, Corey Shaffer@company.com, Python 
+The total number of employees is now 2
+2020-10-19 18:41:46,737 - developer_class - INFO - Created Developer Tara, Black, 20000, Tara Black, Tara Black@company.com, Java 
+The total number of employees is now 4

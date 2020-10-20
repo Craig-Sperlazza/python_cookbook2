@@ -1,4 +1,5 @@
 import socket
+import pickle
 
 HEADERSIZE = 10
 
@@ -10,7 +11,7 @@ s.connect((socket.gethostname(), 1234))
 
 while True:
 
-    full_msg = ''
+    full_msg = b''
     new_msg = True
 
     #getting a tcp byte stream of data, we have to decide how many chunks of data we want to receive at the same time, 
@@ -24,12 +25,16 @@ while True:
             new_msg = False
         
         #must decode the byte stream of data
-        full_msg += msg.decode("utf-8")
+        full_msg += msg
 
         if len(full_msg) - HEADERSIZE == msglen:
-            print("Full Message Received")
+            print("Full Message Recvd")
             print(full_msg[HEADERSIZE:])
+
+            d = pickle.loads(full_msg[HEADERSIZE:])
+            print(d)
+
             new_msg = True
-            full_msg = ''
+            full_msg = b''
         
     # print(full_msg)

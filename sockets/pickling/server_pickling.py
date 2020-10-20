@@ -1,7 +1,12 @@
-# https://www.youtube.com/watch?v=Lbfe3-v7yE0
+# https://www.youtube.com/watch?v=WM1z8soch0Q
+# pickling---taking a python object, serializing it into bytes, 
+# sending it, then taking it and converting it back to python object
+# we are going to pickle a dictionary but you would liekly use json for this
 
 import socket
 import time
+import pickle
+
 
 #we are going to create a header that is sent to the client which tells them the size, 
 # so the client can wait until it receives that full size
@@ -32,16 +37,13 @@ while True:
     clientsocket, address = s.accept()
     print(f"Connection from {address} has been established")
 
-    msg = "Welcome to the server!"
-    #< makes it left aligned
-    msg = f'{len(msg):<{HEADERSIZE}}' + msg
+    d = {1: "Hey", 2: "There"}
+    #turn it into string data
+    msg = pickle.dumps(d)
+
+    #message is bytes, now we have to convert header to bytes too
+    msg = bytes(f'{len(msg):<{HEADERSIZE}}', "utf-8") + msg
 
     #we send info to our clientsocket
-    clientsocket.send(bytes(msg, "utf-8"))
+    clientsocket.send(msg)
     
-    #to show the connection stays open we wills end a message every 3 seconds
-    while True:
-        time.sleep(3)
-        msg = f'The time is: {time.time()}'
-        msg = f'{len(msg):<{HEADERSIZE}}' + msg
-        clientsocket.send(bytes(msg, "utf-8"))

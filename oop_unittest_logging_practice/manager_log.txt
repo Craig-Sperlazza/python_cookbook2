@@ -1,0 +1,33 @@
+2020-10-19 18:31:06,865 - __main__ - DEBUG - This is a log message
+2020-10-19 18:31:33,244 - __main__ - DEBUG - This is a log message
+2020-10-19 18:31:33,245 - __main__ - INFO - Created Manager Sue, Jones, 200000, Sue Jones, Sue Jones@company.com
+The total number of employees is now 7
+2020-10-19 18:31:50,858 - __main__ - DEBUG - This is a log message
+2020-10-19 18:31:50,858 - __main__ - INFO - Created Manager Sue, Jones, 200000, Sue Jones, Sue Jones@company.com
+The total number of employees is now 7
+2020-10-19 18:32:01,914 - __main__ - DEBUG - This is a log message
+2020-10-19 18:32:01,914 - __main__ - INFO - Created Manager Sue, Jones, 200000, Sue Jones, Sue Jones@company.com
+The total number of employees is now 7
+2020-10-19 18:32:19,273 - __main__ - DEBUG - This is a log message
+2020-10-19 18:32:19,273 - __main__ - INFO - Created Manager Sue, Jones, 200000, Sue Jones, Sue Jones@company.com
+The total number of employees is now 7
+2020-10-19 18:35:12,993 - __main__ - DEBUG - This is a log message
+2020-10-19 18:35:12,993 - __main__ - INFO - Created Manager Sue, Jones, 200000, Sue Jones, Sue Jones@company.com
+The total number of employees is now 7
+2020-10-19 18:35:50,507 - __main__ - DEBUG - This is a log message
+2020-10-19 18:35:50,507 - __main__ - INFO - Created Manager Sue, Jones, 200000, Sue Jones, Sue Jones@company.com
+The total number of employees is now 7
+2020-10-19 18:41:39,855 - __main__ - DEBUG - This is a log message
+2020-10-19 18:41:39,855 - __main__ - INFO - Created Manager Sue, Jones, 200000, Sue Jones, Sue Jones@company.com
+The total number of employees is now 7
+2020-10-19 18:41:39,855 - __main__ - INFO -  The Employee's name is Craig Prince and their pay is 10000 and their email is Craig Prince@company.com
+2020-10-19 18:41:39,855 - __main__ - INFO -  The Developer's name is Corey Shaffer and their pay is 10000 and their email is Corey Shaffer@company.com
+2020-10-19 18:41:39,855 - __main__ - INFO -  The Developer's name is Tara Black and their pay is 20000 and their email is Tara Black@company.com
+2020-10-19 18:41:46,737 - __main__ - DEBUG - This is a log message
+2020-10-19 18:41:46,737 - __main__ - INFO - Created Manager Sue, Jones, 200000, Sue Jones, Sue Jones@company.com
+The total number of employees is now 7
+2020-10-19 18:41:46,738 - __main__ - INFO -  The Employee's name is Craig Prince and their pay is 10000 and their email is Craig Prince@company.com
+2020-10-19 18:41:46,738 - __main__ - INFO -  The Developer's name is Corey Shaffer and their pay is 10000 and their email is Corey Shaffer@company.com
+2020-10-19 18:41:46,738 - __main__ - INFO -  The Developer's name is Tara Black and their pay is 20000 and their email is Tara Black@company.com
+2020-10-19 18:41:46,738 - __main__ - INFO -  The Employee's name is Sue Jones and their pay is 200000 and their email is Sue Jones@company.com
+2020-10-19 18:41:46,738 - __main__ - INFO - {'The number of employees is 7'}

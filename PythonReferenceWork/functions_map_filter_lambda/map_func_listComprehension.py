@@ -1,3 +1,5 @@
+from functools import reduce
+
 # functional programming---map function
 
 li = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -47,3 +49,45 @@ str_lst = ['1', '2', '3']
 print(str_lst)
 int_lst = [int(x) for x in str_lst]
 print(int_lst)
+
+
+print('#####################################################')
+
+map_fun = [1, 2, 3, 4, 5, 6, 7, 8]
+
+
+even_plus_two = list(map(lambda x: x + 2, filter(lambda i: i % 2 ==0, map_fun)))
+print(even_plus_two)
+
+
+make_odd = map(lambda x: x + 1, even_plus_two)
+print(list(make_odd))
+
+print('#####################################################')
+
+numbers = [1,2,3,4,5,6,7,8,9,10]
+
+# odd_numbers = list(filter(lambda x: x%2 != 0, numbers))
+
+# print(odd_numbers)
+
+# square_odd_numbers = list(map(lambda x: x**2, odd_numbers))
+# print(square_odd_numbers)
+
+# total = reduce(lambda acc, x: acc + x, square_odd_numbers)
+# average = reduce(lambda acc, x: acc + x, square_odd_numbers)/len(square_odd_numbers)
+# print(total)
+# print(average)
+
+odd_numbers = list(filter(lambda x: x % 2 !=0, numbers))
+square_odd = list(map(lambda x: x **2, odd_numbers))
+total = reduce(lambda acc, x: acc + x, square_odd)
+average = (reduce(lambda acc, x: acc + x, square_odd)) / len(square_odd)
+
+print('#####################################################')
+
+arr_1 = [1, 2, 3]
+arr_2 = [4, 5, 6]
+
+sum_arr = list(map(lambda x, y: x + y, arr_1, arr_2))
+print(sum_arr)
